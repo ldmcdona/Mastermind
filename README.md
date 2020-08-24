@@ -7,3 +7,4 @@ If you guess a correct number in the wrong space the 'close' count will go up by
 If you guess a correct number in the correct space the 'match' count will go up one.
 
 That's basically it. Tried to bug-proof the inputs. 
+Literally just did it in an hour or so.
