@@ -8,3 +8,5 @@ If you guess a correct number in the correct space the 'match' count will go up 
 
 That's basically it. Tried to bug-proof the inputs. 
 Literally just did it in an hour or so.
+
+C++ version : https://github.com/ldmcdona/Mastermind-Cplusplus
